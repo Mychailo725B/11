@@ -21,7 +21,7 @@ int main()
     cout << "Введіть третій символ: ";
     cin >> *ptr3;
 
-    cout << "\Введені символ: " << *ptr1 << ", " << *ptr2 << ", " << *ptr3 << endl;
+    cout << "\n Введені символ: " << *ptr1 << ", " << *ptr2 << ", " << *ptr3 << endl;
 
     delete ptr1;
     delete ptr2;
